@@ -1,6 +1,3 @@
-package FinalProject;
-
-
 public class HashPair<K,V> {
     private K key;
     private V value;
